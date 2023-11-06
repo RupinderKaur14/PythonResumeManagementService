@@ -1,0 +1,8 @@
+{
+    "testing": ["abc@gmail.com"],
+    "file_location": "attachment file path",
+    "production": [
+        "xyz@gmail.com",
+        "jkl@gmail.com"
+    ]
+}
